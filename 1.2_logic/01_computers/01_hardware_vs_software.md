@@ -1,12 +1,8 @@
 # Part 1 – Hardware vs Software
-
+Hardware is the physical parts of a computer that you can see and touch. Examples include the keyboard, mouse, processor, memory, and hard drive. These components make up the structure of the computer and allow it to work. without hardware, a computer couldn't exist or function at all - its like the body of the computer system.
 ## Explain Hardware
-Write **at least 50 words** explaining what hardware is.
----
-
+Hardware refers to the physical parts of a computer or electronic device that you can see and touch. Examples of hardware include the keyboard, mouse, monitor, motherboard, processor (CPU), memory (RAM), and hard drive. Each hardware component has a specific job that helps the computer function. For example, the keyboard allows users to enter information, the monitor displays images and text, and the processor carries out instructions. Hardware is essential because it provides the physical equipment needed to run programs and perform tasks.
 ## Explain Software
-Write **at least 50 words** explaining what software is.
----
-
+Software is a collection of programs, applications, and instructions that tell a computer what to do. Unlike hardware, software cannot be physically touched. Examples of software include operating systems such as Windows and macOS, applications such as Microsoft Word, and web browsers such as Google Chrome. Software allows users to complete tasks like writing documents, browsing the internet, playing games, and editing pictures. Without software, a computer's hardware would not know what tasks to perform. Software is essential because it makes computer hardware useful and allows users to interact with their devices.
 ## How Do Hardware and Software Interact?
-Write **at least 50 words** describing how they interact.
+Hardware and software work together to make a computer function properly. Software provides instructions, while hardware carries out those instructions. For example, when you open a web browser, the software sends instructions to the processor, which processes the information. The computer's memory stores data temporarily, while the monitor displays the webpage. Similarly, when you type using a keyboard, the hardware sends your keystrokes to the software, which processes and displays the text. Hardware and software depend on each other: hardware needs software to perform useful tasks, and software needs hardware to run. Together, they allow computers to perform a wide range of activities efficiently.
